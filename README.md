@@ -25,8 +25,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://www.loom.com/share/de5d8aed25c14958aedea3974532bf23
-
 <div>
     <a href="https://www.loom.com/share/de5d8aed25c14958aedea3974532bf23">
       <p>Intermediate Web Development Course Project: Flashcards - Watch Video</p>
