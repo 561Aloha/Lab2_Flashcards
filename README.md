@@ -1,6 +1,6 @@
 # Lab2_Flashcards
 
-# Web Development Project 2 - Flashcards
+# Web Development Project 3 - Flashcards
 
 Submitted by: Dianna Dimambro
 
@@ -17,20 +17,19 @@ The following **required** functionality is completed:
 - [x ] **A list of card pairs is created**
 - [ x] **Clicking on the card shows the corresponding component of the information pair**
 - [ x] **Clicking the next button displays a random new card**
+- [x] ** card can now recieve inputs
+- [x] ** Depending on the user input, the system will alert if it is right or wrong.
+- [x] ** cards can shuffle both on the question and answer side
 
-The following **optional** features are implemented:
-* [x ] List anything else that you added to improve the site's functionality!
-* There is a gradient background, and cards reset after clicking the next button to the front side of the card
-## Video Walkthrough
+
 
 Here's a walkthrough of implemented required features:
-
 <div>
-    <a href="https://www.loom.com/share/de5d8aed25c14958aedea3974532bf23">
-      <p>Intermediate Web Development Course Project: Flashcards - Watch Video</p>
+    <a href="https://www.loom.com/share/ec61edd0009540069359e76e4ed5c9c9">
+      <p>Library | Loom - 18 February 2024 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/de5d8aed25c14958aedea3974532bf23">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/de5d8aed25c14958aedea3974532bf23-with-play.gif">
+    <a href="https://www.loom.com/share/ec61edd0009540069359e76e4ed5c9c9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec61edd0009540069359e76e4ed5c9c9-with-play.gif">
     </a>
   </div>
 
